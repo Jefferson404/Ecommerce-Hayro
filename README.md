@@ -1,4 +1,4 @@
-Ecommerce Hayroo
+#Ecommerce Hayroo
 Project Overview
 Ecommerce Hayroo is a full-stack e-commerce web platform developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). Owned by Jefferson George, this project delivers a scalable, responsive, and user-centric solution for online retail, empowering small and medium-sized enterprises (SMEs) to manage products, process transactions, and connect with customers effectively. With an open-source approach, it offers a cost-efficient, customizable alternative to traditional e-commerce platforms, featuring an intuitive interface for users to browse, purchase, and track orders, alongside a robust admin dashboard for platform oversight.
 Features
